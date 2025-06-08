@@ -4,7 +4,7 @@ A DIY StreamDeck made from MicroBit/s.
 ## Installation  
 First, you will need a [MicroBit v2](https://www.amazon.com/Micro-Original-Starter-Microbit-Battery/dp/B0F1DQTT79).
 You can have two of [them](https://www.amazon.com/Micro-Original-Starter-Microbit-Battery/dp/B0F1DQTT79) if you want.
-Next, ensure [Python](https://www.python.org/downloads) 3 is installed on your Windows PC.  
+Next, ensure [Python 3](https://www.python.org/downloads) is installed on your Windows PC.  
 Open CMD or Terminal and run:  
 ```
 pip install pyserial
